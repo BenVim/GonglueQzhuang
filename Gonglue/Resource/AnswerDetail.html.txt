@@ -1,0 +1,11 @@
+<!DOCTYPE HTML>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<link rel="stylesheet" href="http://s.gonglue.me/css/style.css" />
+<link rel="stylesheet" href="http://s.gonglue.me/css/responsive.css" />
+</head>
+<body style="-webkit-touch-callout:none">
+<div id="answer">%@</div>
+</body>
+</html>
